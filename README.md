@@ -1,4 +1,4 @@
 # glog
 My Blog
 
-## 2018-04-05: MOVED TO GGAARDER.GITHUB.IO
+You can view the latest rendered version on [ggaarder.github.io][ggaarder.github.io].
